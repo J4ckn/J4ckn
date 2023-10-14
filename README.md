@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=500&color=ADBAC7&multiline=true&random=false&width=1900&height=150&lines=Hi%2C+my+name+is+Joaquin+Calvillan;Soon+a+full-stack+developer+and+self-taught's+videogames+developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=500&color=539BF5&multiline=true&random=false&width=1900&height=150&lines=Hi%2C+my+name+is+Joaquin+Calvillan;Soon+a+full-stack+developer+and+self-taught's+videogames+developer)
 
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,py,nodejs,mongo,mysql,django,wordpress,php,kotlin&theme=light)](https://skillicons.dev)
@@ -22,5 +22,5 @@ And more...
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j4ckn/j4ckn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j4ckn/j4ckn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/j4ckn/j4ckn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/j4ckn/j4ckn/output/github-contribution-grid-snake-dark.svg">
 </picture>
