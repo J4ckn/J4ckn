@@ -8,7 +8,8 @@ And more...
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaquin_Calvillan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joaquin-calvillan-cortes-a753b7219/)
-[![Twitter](https://img.shields.io/badge/Twitter-@JacknMax360-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JacknMax360)
+[![Twitter](https://img.shields.io/badge/%40____Jackn__-blue?style=for-the-badge&logo=X&logoColor=white&label=FOLLOW&labelColor=101010&link=https%3A%2F%2Fx.com%2F__Jackn_
+)](https://x.com/__Jackn_)
 [![Discord](https://img.shields.io/badge/Discord-j4ckn-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]()
 
 ## Contact:
