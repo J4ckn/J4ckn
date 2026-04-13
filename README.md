@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=500&color=539BF5&multiline=true&random=false&width=1900&height=150&lines=Hi%2C+my+name+is+Joaquin+Calvillan;Soon+a+full-stack+developer+and+self-taught's+videogames+developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=500&color=539BF5&multiline=true&random=false&width=1900&height=150&lines=Hi%2C+my+name+is+Joaquin+Calvillan;Im+a+full-stack+developer)
 
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,py,nodejs,mongo,mysql,django,wordpress,php,kotlin&theme=light)](https://skillicons.dev)
